@@ -6,4 +6,3 @@ def using_times
 end 
 
 
-Build a method using times
