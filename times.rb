@@ -1,5 +1,5 @@
 def using_times
-  7.times {"Wingardium Leviosa"}
+  7.times do {"Wingardium Leviosa"}
 end 
 
 
